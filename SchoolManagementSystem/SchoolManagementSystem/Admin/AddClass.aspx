@@ -36,7 +36,7 @@
                                 </ItemTemplate>
                                 <ItemStyle HorizontalAlign="Center" />
                             </asp:TemplateField>
-                            <asp:CommandField CausesValidation="False" HeaderText="Düzenle & Sil" ShowEditButton="True" />
+                            <asp:CommandField CausesValidation="False" HeaderText="Düzenle" ShowEditButton="True" />
                         </Columns>
                         <HeaderStyle BackColor="#555BC9" ForeColor="White"/>
                     </asp:GridView>

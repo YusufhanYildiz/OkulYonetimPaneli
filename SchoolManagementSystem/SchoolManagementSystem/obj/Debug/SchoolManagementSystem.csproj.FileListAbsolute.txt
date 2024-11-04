@@ -157,3 +157,44 @@ C:\Users\Yusufhan\Downloads\Compressed\Okulweb\Okulweb\SchoolManagementSystem\Sc
 C:\Users\Yusufhan\Downloads\Compressed\Okulweb\Okulweb\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Memory.dll
 C:\Users\Yusufhan\Downloads\Compressed\Okulweb\Okulweb\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\Yusufhan\Downloads\Compressed\Okulweb\Okulweb\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csc.exe
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csc.rsp
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csi.exe
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\csi.rsp
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Buffers.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Memory.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolMa.D9F7BBC0.Up2Date
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+C:\Users\Yusufhan Yıldız\Downloads\OkulYonetimPaneli-main\OkulYonetimPaneli-main\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb

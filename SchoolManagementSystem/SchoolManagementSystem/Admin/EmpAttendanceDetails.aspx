@@ -43,7 +43,7 @@
                                          </asp:BoundField>--%>
                                         <asp:TemplateField HeaderText ="Status">
                                             <ItemTemplate>
-                                                <asp:Label runat="server" ID="label1" Text='<%# Boolean.Parse( Eval("Status").ToString()) ? "Present" : "Absent" %>'></asp:Label>
+                                                <asp:Label runat="server" ID="label1" Text='<%# Boolean.Parse( Eval("Status").ToString()) ? "Katıldı" : "Katılmadı" %>'></asp:Label>
                                             </ItemTemplate>
                                         </asp:TemplateField>
                                         <asp:BoundField DataField="Date" HeaderText="Tarih" DataFormatString="{0:dd MMMM yyyy}">

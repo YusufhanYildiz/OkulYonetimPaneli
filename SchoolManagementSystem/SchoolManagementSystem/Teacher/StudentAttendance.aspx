@@ -39,7 +39,7 @@
             <asp:Button ID="btnMarkAttendance" runat="server" CssClass="btn btn-primary btn-block" BackColor="#5558C9" Text="Katılımı Ekle" OnClick="btnMarkAttendance_Click" Font-Size="Medium" />
         </div>
         <div class="row mb-3 mr-lg-5 ml-lg-5">
-            <div class="col-md-6">
+            <div class="col-md-12">
                 <asp:GridView ID="GridView1" runat="server" CssClass="table table-hover table-bordered" EmptyDataText="No Record to display!">
                     <Columns>
 

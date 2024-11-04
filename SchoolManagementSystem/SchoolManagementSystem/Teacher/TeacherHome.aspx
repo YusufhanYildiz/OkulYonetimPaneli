@@ -75,7 +75,7 @@
 
     <div class="container">
     <div class="row pt-5">
-        <div class="col-md-3">
+        <div class="col-md-5">
             <div class="card-counter primary">
                 <i class="fa fa-code-fork"></i>
                 <span class="count-numbers"><%Response.Write(Session["student"]); %></span>
@@ -83,15 +83,15 @@
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-5">
             <div class="card-counter danger">
                 <i class="fa fa-ticket"></i>
                 <span class="count-numbers"><%Response.Write(Session["teacher"]); %></span>
-                <span class="count-name">Toplam Öğrenci Sayısı</span>
+                <span class="count-name">Toplam Öğretmen Sayısı</span>
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-5">
             <div class="card-counter success">
                 <i class="fa fa-database"></i>
                 <span class="count-numbers"><%Response.Write(Session["class"]); %></span>
@@ -99,7 +99,7 @@
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-5">
             <div class="card-counter info">
                 <i class="fa fa-users"></i>
                 <span class="count-numbers"><%Response.Write(Session["subject"]); %></span>
